@@ -166,7 +166,7 @@ npm start
 
 Set API base URL in frontend/src/api.js:
 
-export const API_BASE = "http://localhost:5000";
+export const BASE_URL = process.env.REACT_APP_API;
 
 
 📡 Import Test Data
