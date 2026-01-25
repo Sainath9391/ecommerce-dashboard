@@ -113,28 +113,30 @@ Import them using **MongoDB Compass → Insert Many**.
 ## 🔌 API Endpoints
 
 ### ➤ Products
-POST /api/products
-GET /api/products
+POST /api/data/products
+GET  /api/data/products
 
 
 ### ➤ Customers
+POST /api/data/customers
+GET  /api/data/customers
 
-POST /api/customers
-GET /api/customers
 
 
 ### ➤ Orders
 
-POST /api/orders
-GET /api/orders
+POST /api/data/orders
+GET  /api/data/orders
+
 
 
 ### ➤ Analytics
 
-GET /api/analytics/summary
+GET /api/analytics/overview
 GET /api/analytics/monthly-sales
-GET /api/analytics/customer-regions
+GET /api/analytics/customer-demographics
 GET /api/analytics/top-products
+
 
 
 ---
