@@ -26,9 +26,9 @@ The dashboard allows users to **add products, customers, and orders**, and autom
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🎯 Dashboard Overview
+### Dashboard Overview
 - **Summary Cards**
   - Total Orders
   - Total Units Sold
@@ -39,7 +39,7 @@ The dashboard allows users to **add products, customers, and orders**, and autom
 - **Top Products Table**
 - **Clean Navigation Bar**
 
-### 📝 Add Data Page
+### Add Data Page
 Add the following directly into the database:
 - Products  
 - Customers  
@@ -47,16 +47,16 @@ Add the following directly into the database:
 
 All entries appear instantly on the dashboard.
 
-### 📊 Reports Page
+### Reports Page
 - Download **Monthly Sales Report (CSV)**
 - Download **Top Products Report (CSV)**
 - Real-time calculations based on stored orders
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 - React.js  
 - Axios (API communication)  
 - Recharts (charts and graphs)  
@@ -68,7 +68,7 @@ All entries appear instantly on the dashboard.
 - Mongoose ORM  
 - MongoDB Aggregation Pipelines for analytics  
 
-### 🗄️ Database
+### Database
 - MongoDB Atlas / Local MongoDB  
 - Collections:
   - `products`
@@ -98,19 +98,19 @@ root/
 
 ---
 
-## 📦 Test Data Included
+## Test Data Included
 
 Your repository includes the following ready-to-insert MongoDB data:
 
 - **products.json**
 - **customers.json**
-- **orders_100.json** ✔️ (100 orders dataset in Extended JSON format)
+- **orders_100.json** (100 orders dataset in Extended JSON format)
 
 Import them using **MongoDB Compass → Insert Many**.
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### ➤ Products
 POST /api/data/products
@@ -141,7 +141,7 @@ GET /api/analytics/top-products
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 
 
@@ -193,7 +193,7 @@ customers.json
 
 orders_100.json
 
-📈 Dashboard Preview
+ Dashboard Preview
 
 Full analytics with charts
 
@@ -203,7 +203,7 @@ CSV downloads
 
 Data-driven UI
 
-🧠 Future Improvements
+ Future Improvements
 
 AI Chatbot to explain analytics
 
@@ -215,7 +215,7 @@ Multiple dashboard roles
 
 PDF report generation
 
-❤️ Developed By : Pendalwar Sainath.
+ Developed By : Pendalwar Sainath.
 
 Built with ❤️ for students, communities, and learning enthusiasts.
 Feel free to contribute or raise issues!
