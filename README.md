@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://github.com/yourusername/ecommerce-analytics">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=4EA94B&center=true&vCenter=true&multiline=false&width=650&height=60&lines=E-Commerce+Analytics+Dashboard;MERN+%7C+Real-Time+KPIs+%7C+Charts+%7C+CSV+Reports" alt="E-Commerce Analytics Dashboard" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=4EA94B&center=true&vCenter=true&multiline=false&width=650&height=60&lines=E-Commerce+Analytics+Dashboard; MERN+%7C+Real-Time+KPIs+%7C+Charts+%7C+CSV+Reports" alt="E-Commerce Analytics Dashboard" />
 </a>
 
 <br/><br/>
@@ -269,8 +269,8 @@ _Full-Stack Developer · MERN · Analytics · Performance Engineering_
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sainath9391)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pendalwar-sainath-598169349)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
 
 <br/>
