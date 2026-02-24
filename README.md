@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://github.com/yourusername/ecommerce-analytics">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=4EA94B&center=true&vCenter=true&multiline=false&width=650&height=60&lines=E-Commerce+Analytics+Dashboard; MERN+%7C+Real-Time+KPIs+%7C+Charts+%7C+CSV+Reports" alt="E-Commerce Analytics Dashboard" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=4EA94B&center=true&vCenter=true&multiline=false&width=650&height=60&lines=E-Commerce+Analytics+Dashboard;MERN+%7C+Real-Time+KPIs+%7C+Charts+%7C+CSV+Reports" alt="E-Commerce Analytics Dashboard" />
 </a>
 
 <br/><br/>
