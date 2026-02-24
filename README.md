@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://github.com/yourusername/ecommerce-analytics">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=4EA94B&center=true&vCenter=true&multiline=false&width=650&height=60&lines=E-Commerce+Analytics+Dashboard;MERN+%7C+Real-Time+KPIs+%7C+Charts+%7C+CSV+Reports" alt="E-Commerce Analytics Dashboard" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=4EA94B&center=true&vCenter=true&multiline=false&width=650&height=60&lines=E-Commerce+Analytic+Dashboard;MERN+%7C+Real-Time+KPIs+%7C+Charts+%7C+CSV+Reports" alt="E-Commerce Analytics Dashboard" />
 </a>
 
 <br/><br/>
@@ -33,9 +33,9 @@
 
 ## Overview
 
-**E-Commerce Analytics Dashboard** is a full-stack MERN application that transforms raw order, product, and customer data into actionable business insights — in real time.
+**E-Commerce Analytics Dashboard** is a full-stack MERN application that transforms raw order, product, and customer data into actionable business insights in real time.
 
-Built with a clean separation between data ingestion, server-side aggregation (MongoDB Pipelines), and a responsive React frontend — demonstrating how production-grade analytics platforms are structured at scale.
+Built with a clean separation between data ingestion, server-side aggregation (MongoDB Pipelines), and a responsive React frontend demonstrating how production-grade analytics platforms are structured at scale.
 
 ---
 
@@ -56,11 +56,11 @@ Built with a clean separation between data ingestion, server-side aggregation (M
 
 ## Features
 
-**Dashboard Overview** — Four real-time KPI cards (Orders, Units Sold, Revenue, Profit) backed by a Monthly Sales Line Chart, Customer Demographics Pie Chart, and a revenue-ranked Top Products Table.
+**Dashboard Overview**  Four real-time KPI cards (Orders, Units Sold, Revenue, Profit) backed by a Monthly Sales Line Chart, Customer Demographics Pie Chart, and a revenue-ranked Top Products Table.
 
-**Add Data** — Insert Products, Customers, and Orders directly into MongoDB via a form interface. All records reflect on the dashboard instantly with no refresh required.
+**Add Data**  Insert Products, Customers, and Orders directly into MongoDB via a form interface. All records reflect on the dashboard instantly with no refresh required.
 
-**Reports & Exports** — Download Monthly Sales and Top Products reports as CSV. Figures are computed from live aggregation queries on every request.
+**Reports & Exports**  Download Monthly Sales and Top Products reports as CSV. Figures are computed from live aggregation queries on every request.
 
 ---
 
